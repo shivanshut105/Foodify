@@ -44,3 +44,16 @@
     background-color: #8a2b06;
     color: white;
 }
+
+
+.loadingSpinner{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.loadingSpinner .button{
+    margin-left: 0;
+}
